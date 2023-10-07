@@ -2,4 +2,4 @@
 Cases técnicos - DADOSFERA
 
 # CASE 1
-[raw files](https://github.com/leorickli/brazil-e-commerce-azure-databricks/tree/main/raw_files)
+[Vídeo Apresentação](https://www.youtube.com/watch?v=1tbNbbeWZJc)
