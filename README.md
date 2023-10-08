@@ -5,7 +5,7 @@ Cases técnicos - DADOSFERA
 [Vídeo Apresentação](https://www.youtube.com/watch?v=1tbNbbeWZJc)
 
 # CASE 2
-[Pipeline Coletor](https://app.dadosfera.ai/pt-BR/collect/import-files/a2624ef7-723a-4b58-898a-da147ca38f9f)
+[Pipeline Coletor](https://app.dadosfera.ai/pt-BR/catalog/data-assets/807fd3ca-b6ea-4353-90aa-9008d151acfe)
 
 # CASE 3
 
