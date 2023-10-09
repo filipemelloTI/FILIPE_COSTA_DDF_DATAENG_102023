@@ -2,6 +2,7 @@
 Cases técnicos - DADOSFERA
 
 # CASE 1
+O vídeo contém todas as respostas do case.
 [Vídeo Apresentação](https://www.youtube.com/watch?v=1tbNbbeWZJc)
 
 # CASE 2
